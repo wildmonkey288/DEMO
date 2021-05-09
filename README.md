@@ -1,1 +1,2 @@
-"Welcome to RISE" 
+"Welcome to RISE"
+"Hail to Everybody"
